@@ -6,3 +6,5 @@ add2: Register a change in an index
 add3: working tree changes - here we go
 
 add4: two files - 1st
+
+trunk changes
