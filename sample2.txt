@@ -1,5 +1,6 @@
-Just a second sample
+
+m J e ust a second sample
 
 add 4: two files - 2nd
 
-merge 2 change
+merge test
